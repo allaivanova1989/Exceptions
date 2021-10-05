@@ -17,8 +17,7 @@ public class ServiceImpl implements Service {
         model.putData(word.toLowerCase());}
     }
 
-//
-//        for (int i = 0; i < modelimpl.getName().size(); i++) {
+
 
 }
 
